@@ -60,6 +60,7 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    namespace 'com.droidsonroids.add_to_google_wallet_example'
 }
 
 flutter {
